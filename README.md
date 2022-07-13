@@ -19,7 +19,7 @@
 </div><br>
 
 <div style="width: 10px;"></div>
-<a  href="https://discord.gg/HpebEwQbmB" style="height: 100px;">>
+<a  href="https://discord.gg/HpebEwQbmB">
     <img align="right" src="https://discordapp.com/api/guilds/834197845736292365/widget.png?style=banner4"/>
 </a>
 
@@ -28,18 +28,15 @@ const nama = "kemi";
 const replit = "https://replit.com/@osi-ic/";
 const instagram = "https://www.instagram.com/yumearchive/";
 const discord = "https://dsc.gg/yumearchive"
-
-function(kehidupan) {
+function(myKehidupan) {
     while(true){
         makan(); //eat
         turu(); //sleep
         ngoding(); //code
         boker(); //defecate
-        nyusahinOrang(); //trouble people
     }
-
     return 0; 
-    }
+}
 ``` 
 
 <h4 align="center">
