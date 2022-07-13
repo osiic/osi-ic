@@ -3,6 +3,8 @@
     <h3 align="center">Bukan Siapa Siapa!?</h3>
 </a>
 
+
+# **Status :**
 <div align="center">
     <a href="https://replit.com/@osi-ic">
         <img alt="Replit" 
@@ -39,15 +41,6 @@ function(myKehidupan) {
     return 0; 
 }
 ``` 
-
-<h4 align="center">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=r&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=qt&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=neovim&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
 <p align="center">
   <a href="https://github.com/osi-ic">
     <img align="center"
