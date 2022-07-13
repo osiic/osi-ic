@@ -4,9 +4,6 @@
 </a>
 
 
-<a href="https://discord.gg/HpebEwQbmB">
-    <h1 align="center">Status</h1>
-</a>
 <div align="center">
     <a href="https://replit.com/@osi-ic">
         <img alt="Replit" 
@@ -43,6 +40,7 @@ function(myKehidupan) {
     return 0; 
 }
 ``` 
+# **Status :**
 <p align="center">
   <a href="https://github.com/osi-ic">
     <img align="center"
