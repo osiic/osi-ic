@@ -17,6 +17,8 @@
              src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </div>
+<div>
+
 - 🔭 I’m Studying On 
 
 - 🌱 I’m currently learning **Kehidupan**
@@ -25,6 +27,8 @@
 
 - 📫 How to reach me **in Discord DM [MIII#6668](https://discord.com/channels/@me/723699182866530394)**
 <br>
+</div>
+
 
 <div style="width: 10px;"></div>
 <a  href="https://discord.gg/HpebEwQbmB">
