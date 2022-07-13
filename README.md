@@ -87,23 +87,9 @@ function(myKehidupan) {
 </p>
 
 # **☕ Donates:**
-<h3 align="center">Contribute an amount to help fund new projects</h3>
+<h3 align="center">Contribute Some to Help Fund My Life</h3>
 <div align="center">
-<a href="https://www.patreon.com/osi-ic">
-        <img alt="Patreon donate"
-             src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dosi-ic%26type%3Dpatrons&style=for-the-badge&logoColor=eceff4&colorA=1e1e28&colorB=c9cbff">
-    </a> 
-    <a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url">
-        <img alt="Paypal donate"
-             src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=for-the-badge&colorA=1e1e28&colorB=f2cecf">
-    </a>
-    <a href="https://ko-fi.com/osi-ic">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&colorA=1e1e28&colorB=bee4ed" /></a>
-<a href="https://liberapay.com/Okami/">
-    <img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=white&colorA=1e1e28&colorB=c6aae8" /></a>
+<a href="https://saweria.co/cemy">
+    <img alt="Patreon donate"src="https://saweria.co/overlays/recent?streamKey=2ac6d1f421b6ef0f98f19f81f58ba821&backgroundColor=%230048ffFF&color=%23ffffffFF&fontWeight=550&text=dukung+di+https%3A%2F%2Fsaweria.co%2Fcemy&speed=30">
+</a> 
 </div>
-
-<h6 align="center">
-    <br><br><br>
-    <a href="https://discord.gg/HpebEwQbmB"><img src="https://i.imgur.com/45TzgnD.png" width="50px" /></a>
- </h6>
