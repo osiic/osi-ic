@@ -3,7 +3,6 @@
     <h3 align="center">Bukan Siapa Siapa!?</h3>
 </a>
 
-
 <div align="center">
     <a href="https://replit.com/@osi-ic">
         <img alt="Replit" 
@@ -17,7 +16,15 @@
         <img alt="Discord" 
              src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
     </a>
-</div><br>
+</div>
+- 🔭 I’m Studying On 
+
+- 🌱 I’m currently learning **Kehidupan**
+
+- 👯 I’m A Staff In Community [YumeArchive](https://discord.gg/HpebEwQbmB")
+
+- 📫 How to reach me **in Discord DM [MIII#6668](https://discord.com/channels/@me/723699182866530394)**
+<br>
 
 <div style="width: 10px;"></div>
 <a  href="https://discord.gg/HpebEwQbmB">
@@ -40,7 +47,7 @@ function(myKehidupan) {
     return 0; 
 }
 ``` 
-# **Status :**
+# **👑 Status :**
 <p align="center">
   <a href="https://github.com/osi-ic">
     <img align="center"
