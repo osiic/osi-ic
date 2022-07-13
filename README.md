@@ -19,21 +19,25 @@
 </div><br>
 
 <div style="width: 10px;"></div>
-<a  href="https://discord.gg/HpebEwQbmB"><img align="right" src="https://discordapp.com/api/guilds/834197845736292365/widget.png?style=banner4"/></a>
+<a  href="https://discord.gg/HpebEwQbmB">
+    <img align="right" src="https://discordapp.com/api/guilds/834197845736292365/widget.png?style=banner4"/>
+</a>
 
-```C++
-#include <iostream>
-#include <stdio.h>
-using namespace std::Okami チム;
+```js
+const nama = "kemi";
+const replit = "https://replit.com/@osi-ic/";
+const Instagram = "https://www.instagram.com/yumearchive/";
+const Discord = "https://dsc.gg/yumearchive"
 
-int main() {
-    char info[128] = "Software Engineer and Machine Learning";
-
-    char *langs[4] = { "C", "C++", "C#", "Assembly" };
-    char tech[4] = { "UE4", "OpenGL", "Vulkan", "DirectX" };
+function(kehidupan) {
+    while(true){
+        makan(); //eat
+        turu(); //sleep
+        ngoding(); //code
+        boker(); //defecate
+        nyusahinOrang(); //trouble people
+    }
     
-    // Server:   https://discord.gg/HpebEwQbmB;
-    // Telegram: https://t.me/mksDecode
     return 0; 
     }
 ``` 
@@ -98,6 +102,6 @@ int main() {
 </div>
 
 <h6 align="center">
-    43oAX3sowsZZwdUfQFc2zVPTf9msrnm6jV48dCUJxJEdYe9AQ9kyiPP399egjhqkbmE4CSoT6VsAcRaNrv9KAe1s5a8czob - BTC Monero<br><br><br>
+    <br><br><br>
     <a href="https://discord.gg/HpebEwQbmB"><img src="https://i.imgur.com/45TzgnD.png" width="50px" /></a>
  </h6>
