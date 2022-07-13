@@ -19,15 +19,15 @@
 </div><br>
 
 <div style="width: 10px;"></div>
-<a  href="https://discord.gg/HpebEwQbmB">
+<a  href="https://discord.gg/HpebEwQbmB" style="height: 100px;">>
     <img align="right" src="https://discordapp.com/api/guilds/834197845736292365/widget.png?style=banner4"/>
 </a>
 
 ```js
 const nama = "kemi";
 const replit = "https://replit.com/@osi-ic/";
-const Instagram = "https://www.instagram.com/yumearchive/";
-const Discord = "https://dsc.gg/yumearchive"
+const instagram = "https://www.instagram.com/yumearchive/";
+const discord = "https://dsc.gg/yumearchive"
 
 function(kehidupan) {
     while(true){
@@ -37,7 +37,7 @@ function(kehidupan) {
         boker(); //defecate
         nyusahinOrang(); //trouble people
     }
-    
+
     return 0; 
     }
 ``` 
