@@ -90,6 +90,6 @@ function(myKehidupan) {
 <h3 align="center">Contribute Some to Help Fund My Life</h3>
 <div align="center">
 <a href="https://saweria.co/cemy">
-    <iframe src="https://saweria.co/overlays/recent?streamKey=2ac6d1f421b6ef0f98f19f81f58ba821&backgroundColor=%230048ffFF&color=%23ffffffFF&fontWeight=550&text=dukung+di+https%3A%2F%2Fsaweria.co%2Fcemy&speed=30"></iframe>
+    [![Saweria](https://img.shields.io/badge/-SAWERIA-orange?style=for-the-badge)](https://www.saweria.co/cemy)
 </a> 
 </div>
