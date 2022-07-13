@@ -28,6 +28,7 @@ const nama = "kemi";
 const replit = "https://replit.com/@osi-ic/";
 const instagram = "https://www.instagram.com/yumearchive/";
 const discord = "https://dsc.gg/yumearchive"
+
 function(myKehidupan) {
     while(true){
         makan(); //eat
