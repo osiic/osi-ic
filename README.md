@@ -89,7 +89,5 @@ function(myKehidupan) {
 # **☕ Donates:**
 <h3 align="center">Contribute Some to Help Fund My Life</h3>
 <div align="center">
-<a href="https://saweria.co/cemy">
     [![Saweria](https://img.shields.io/badge/-SAWERIA-orange?style=for-the-badge)](https://www.saweria.co/cemy)
-</a> 
 </div>
