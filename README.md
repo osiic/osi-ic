@@ -4,22 +4,22 @@
 </a>
 
 <div align="center">
-    <a href"https://github.com/osi-ic?tab=followers">
-        <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/osi-ic?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
+    <a href="https://replit.com/@osi-ic">
+        <img alt="Replit" 
+             src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
     </a>
-    <a href="https://twitter.com/OkamiMwaree">
-        <img alt="Twitter Follow" 
-             src="https://img.shields.io/instagram/follow/yumearchive?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
+    <a href="https://www.instagram.com/yumearchive/">
+        <img alt="Instagram" 
+             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://discord.gg/HpebEwQbmB">
-        <img alt="Discord server" 
+        <img alt="Discord" 
              src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </div><br>
 
 <div style="width: 10px;"></div>
-<a  href="https://discord.gg/HpebEwQbmB"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
+<a  href="https://discord.gg/HpebEwQbmB"><img align="right" src="https://discordapp.com/api/guilds/834197845736292365/widget.png?style=banner4"/></a>
 
 ```C++
 #include <iostream>
