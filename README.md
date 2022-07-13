@@ -1,8 +1,6 @@
 <a href="https://discord.gg/HpebEwQbmB">
-    <h3 align="center">
-        <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
-        Bukan Siapa Siapa!?
-    </h3>
+    <h1 align="center">Hi 👋, I'm Kemi</h1>
+    <h3 align="center">Bukan Siapa Siapa!?</h3>
 </a>
 
 <div align="center">
