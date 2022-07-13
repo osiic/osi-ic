@@ -4,7 +4,9 @@
 </a>
 
 
-# **Status :**
+<a href="https://discord.gg/HpebEwQbmB">
+    <h1 align="center">Status</h1>
+</a>
 <div align="center">
     <a href="https://replit.com/@osi-ic">
         <img alt="Replit" 
