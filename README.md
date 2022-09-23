@@ -51,7 +51,7 @@ function(myKehidupan) {
     return 0; 
 }
 ``` 
-# **👑 Status :**
+<!-- # **👑 Status :**
 <p align="center">
   <a href="https://github.com/osi-ic">
     <img align="center"
@@ -84,7 +84,7 @@ function(myKehidupan) {
       src="https://github-profile-trophy.vercel.app/?username=osi-ic&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
   </a>
 </a>
-</p>
+</p> -->
 
 # **☕ Donates:**
 <h3 align="center">Contribute Some to Help Fund My Life</h3>
