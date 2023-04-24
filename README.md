@@ -40,20 +40,14 @@ const nama = "kemi";
 const replit = "https://replit.com/@osi-ic/";
 const instagram = "https://www.instagram.com/yumearchive/";
 const discord = "https://dsc.gg/yumearchive";
-const {makan, turu, ngoding, boker} = require('myife');
+const {hidup, makan, turu, ngoding, boker} = require('myife');
 
-function life (hidup) {
-    while(hidup){
-        makan(); //eat
-        turu(); //sleep
-        ngoding(); //code
-        boker(); //defecate
-    };
-
-    return 'goodluck'; 
+while(hidup){
+    makan(); //eat
+    turu(); //sleep
+    ngoding(); //code
+    boker(); //defecate
 };
-
-life(true);
 ``` 
 <!-- # **👑 Status :**
 <p align="center">
