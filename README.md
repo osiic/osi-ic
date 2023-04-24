@@ -39,17 +39,21 @@
 const nama = "kemi";
 const replit = "https://replit.com/@osi-ic/";
 const instagram = "https://www.instagram.com/yumearchive/";
-const discord = "https://dsc.gg/yumearchive"
+const discord = "https://dsc.gg/yumearchive";
+const {makan, turu, ngoding, boker} = require('myife');
 
-function(myKehidupan) {
-    while(true){
+function life (hidup) {
+    while(hidup){
         makan(); //eat
         turu(); //sleep
         ngoding(); //code
         boker(); //defecate
-    }
-    return 0; 
-}
+    };
+
+    return 'goodluck'; 
+};
+
+life(true);
 ``` 
 <!-- # **👑 Status :**
 <p align="center">
