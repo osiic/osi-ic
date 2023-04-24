@@ -17,8 +17,8 @@
              src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </div>
-<div>
 
+<div>
 - 🔭 I’m Studying On 
 
 - 🌱 I’m currently learning **Kehidupan**
@@ -29,6 +29,9 @@
 <br>
 </div>
 
+<div align="right">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+ </div>
 
 <div style="width: 10px;"></div>
 <a  href="https://discord.gg/HpebEwQbmB">
