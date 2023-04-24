@@ -26,13 +26,8 @@
 - 👯 I’m A Staff In Community [YumeArchive](https://discord.gg/HpebEwQbmB")
 
 - 📫 How to reach me **in Discord DM [MIII#6668](https://discord.com/channels/@me/723699182866530394)**
-<br>
 </div>
-
-<div align="right">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
- </div>
-
+<br>
 <div style="width: 10px;"></div>
 <a  href="https://discord.gg/HpebEwQbmB">
     <img align="right" src="https://discordapp.com/api/guilds/834197845736292365/widget.png?style=banner4"/>
@@ -92,5 +87,8 @@ while(hidup){
 <div align="center">
 <a href="https://saweria.co/cemy">
     <img alt="Saweria donate"src="https://img.shields.io/badge/-SAWERIA-orange?style=for-the-badge">
-</a> 
+</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=osi-ic&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+ 
 </div>
