@@ -89,6 +89,6 @@ while(hidup){
     <img alt="Saweria donate"src="https://img.shields.io/badge/-SAWERIA-orange?style=for-the-badge">
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=osiic&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=osiic1)](https://git.io/streak-stats)
  
 </div>
