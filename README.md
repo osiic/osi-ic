@@ -1,36 +1,21 @@
-<a href="https://discord.gg/HpebEwQbmB">
+<a href="https://dsc.gg/mabica">
     <h1 align="center">Hi 👋, I'm Kemi</h1>
     <h3 align="center">Bukan Siapa Siapa!?</h3>
 </a>
 
 <div align="center">
-    <a href="https://replit.com/@osiic">
-        <img alt="Replit" 
-             src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/yumearchive/">
+    <a href="https://www.instagram.com/cemy.id">
         <img alt="Instagram" 
              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://discord.gg/HpebEwQbmB">
+    <a href="https://dsc.gg/mabica">
         <img alt="Discord" 
              src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </div>
-
-<div>
-- 🔭 I’m Studying On 
-
-- 🌱 I’m currently learning **Kehidupan**
-
-- 👯 I’m A Staff In Community [YumeArchive](https://discord.gg/HpebEwQbmB")
-
-- 📫 How to reach me **in Discord DM [MIII#6668](https://discord.com/channels/@me/723699182866530394)**
-</div>
 <br>
-<div style="width: 10px;"></div>
-<a  href="https://discord.gg/HpebEwQbmB">
-    <img align="right" src="https://discordapp.com/api/guilds/834197845736292365/widget.png?style=banner4"/>
+<a  href="https://dsc.gg/mabica">
+    <img align="right" src="https://discordapp.com/api/guilds/1216411716540174538/widget.png?style=banner4"/>
 </a>
 
 ```js
@@ -46,7 +31,8 @@ while(hidup){
     ngoding(); //code
     boker(); //defecate
 };
-``` 
+```
+
 <!-- # **👑 Status :**
 <p align="center">
   <a href="https://github.com/osiic">
@@ -89,6 +75,6 @@ while(hidup){
     <img alt="Saweria donate"src="https://img.shields.io/badge/-SAWERIA-orange?style=for-the-badge">
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=osiic1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=osiic&theme=tokyonight)](https://git.io/streak-stats)
  
 </div>
